@@ -6,17 +6,17 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Duke Translational Bioinformatics
+tagline:          Biomedical Data Science at Duke
+url:              http://duke-translational-bioinformatics.github.io
 paginate:         1
-baseurl:          http://duke-translational-bioinformatics.github.io
+baseurl:          http://duke-translational-bioinformatics.github.io/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Erich S. Huang, MD/PhD
+  url:            
+  email:          erich.huang@duke.edu
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/duke-translational-bioinformatics/duke-translational-bioinformatics.github.io

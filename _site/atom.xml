@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Poole</title>
- <link href="http://getpoole.comhttp://duke-translational-bioinformatics.github.ioatom.xml" rel="self"/>
- <link href="http://getpoole.comhttp://duke-translational-bioinformatics.github.io"/>
- <updated>2014-08-14T11:13:40-04:00</updated>
- <id>http://getpoole.com</id>
+ <title>Duke Translational Bioinformatics</title>
+ <link href="http://duke-translational-bioinformatics.github.iohttp://duke-translational-bioinformatics.github.io/atom.xml" rel="self"/>
+ <link href="http://duke-translational-bioinformatics.github.iohttp://duke-translational-bioinformatics.github.io/"/>
+ <updated>2014-08-14T15:30:25-04:00</updated>
+ <id>http://duke-translational-bioinformatics.github.io</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Erich S. Huang, MD/PhD</name>
+   <email>erich.huang@duke.edu</email>
  </author>
 
  
  <entry>
    <title>Introducing Poole</title>
-   <link href="http://getpoole.comhttp://duke-translational-bioinformatics.github.io/2014/01/02/introducing-poole/"/>
+   <link href="http://duke-translational-bioinformatics.github.iohttp://duke-translational-bioinformatics.github.io//2014/01/02/introducing-poole/"/>
    <updated>2014-01-02T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2014/01/02/introducing-poole</id>
+   <id>http://duke-translational-bioinformatics.github.io/2014/01/02/introducing-poole</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel&amp;#39;s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll&amp;#39;s loyal butler.&lt;/p&gt;
 
 &lt;hr&gt;
@@ -61,9 +61,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://getpoole.comhttp://duke-translational-bioinformatics.github.io/2014/01/01/example-content/"/>
+   <link href="http://duke-translational-bioinformatics.github.iohttp://duke-translational-bioinformatics.github.io//2014/01/01/example-content/"/>
    <updated>2014-01-01T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2014/01/01/example-content</id>
+   <id>http://duke-translational-bioinformatics.github.io/2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -207,9 +207,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://getpoole.comhttp://duke-translational-bioinformatics.github.io/2013/12/31/whats-jekyll/"/>
+   <link href="http://duke-translational-bioinformatics.github.iohttp://duke-translational-bioinformatics.github.io//2013/12/31/whats-jekyll/"/>
    <updated>2013-12-31T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2013/12/31/whats-jekyll</id>
+   <id>http://duke-translational-bioinformatics.github.io/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
